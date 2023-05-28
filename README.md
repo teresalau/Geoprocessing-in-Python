@@ -5,4 +5,5 @@ To understand the impact of the COVID-19 pandemic and its recovery on the traffi
 
 ### 1. Data Source
 The proprietary dataset was provided by Environics Data which is an analytics company and an industry partner of the course MUI2000 led by Professor Karen Chapple and Jeff Allen from the Ubiversity of Toronto. <br>
+<br>
 This project......
