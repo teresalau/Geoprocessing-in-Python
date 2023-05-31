@@ -1,7 +1,7 @@
 ## Geoprocessing-in-Python
 ### A geospatial data manipulation project in Python
 
-To understand the impact of the COVID-19 pandemic and its recovery on the traffic to two neighbourhoods in Toronto which are Spadina Chinatown and Liberty Village, I used Python to manipulate geospatial data into shape files to enable further visualizations in QGIS. 
+To understand the impact of the COVID-19 pandemic and the economic recovery of small businesses on main streets of Toronto, my team and I selected two on the traffic to two neighbourhoods - Spadina Chinatown and Liberty Village - as the subjects for this geospatial study. As the quantitative/geographical information systems (GIS) researcher on the team, I am responsible for gathering, wrangling, and visualizing the data using Python and QGIS for this analysis.
 
 ### 1. Data Sources
 Two datasets were used in this project - mobile traffic data and the Canadian Historical Business data. The former proprietary dataset was provided by Environics Data, an analytics company and an industry partner of the course MUI2000 led by Professor Karen Chapple and Jeff Allen from the Ubiversity of Toronto. The latter one is part of the collection in the Maps and Data Library at the University of Toronto.
